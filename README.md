@@ -56,10 +56,12 @@ The model extracts features from a **content image** and a **style image**, then
 
 Make sure you have Python ≥ 3.8 installed.
 
-```bash
+```
 git clone https://github.com/your-username/style-transfer-app.git
 cd style-transfer-app
 pip install -r requirements.txt
+
+```
 <details> <summary><code>requirements.txt</code> sample</summary>
 nginx
 Copy
@@ -69,11 +71,8 @@ torchvision
 streamlit
 Pillow
 </details>
-```
+
 ▶️ How to Run
-bash
-Copy
-Edit
 streamlit run main.py
 Upload a content image and a style image in the sidebar.
 
