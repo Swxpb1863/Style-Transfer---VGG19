@@ -72,36 +72,39 @@ streamlit
 Pillow
 </details>
 
-▶️ How to Run
+## ▶️ How to Run
+```
 streamlit run main.py
+```
+
 Upload a content image and a style image in the sidebar.
 
 Adjust:
 
-Content weight (alpha)
+> Content weight (alpha)
 
-Style weight (beta)
+> Style weight (beta)
 
-Number of optimization steps
+> Number of optimization steps
 
-Sit back and watch as the style is transferred in real-time!
+> Sit back and watch as the style is transferred in real-time!
 
-Download the final stylized image.
+> Download the final stylized image.
 
-🧩 TODOs & Enhancements
- Add multiple predefined style options
+## 🧩 TODOs & Enhancements
+ > Add multiple predefined style options
 
- Save session history
+ > Save session history
 
- Style blend toggle (multiple styles)
+ > Style blend toggle (multiple styles)
 
- Dark mode theme for Streamlit
+ > Dark mode theme for Streamlit
 
- Mobile responsiveness
+ > Mobile responsiveness
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License – free for personal or commercial use with attribution.
 
-👤 Author
+## 👤 Author
 Swarupa Balaji
 Feel free to reach out for contributions, ideas, or collaborations!
