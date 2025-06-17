@@ -9,7 +9,7 @@ This project is a neural style transfer implementation using PyTorch and the pre
 <table>
 <tr>
 <td><img src="Mona_Lisa.jpg" width="250"/><br><b>Content Image</b></td>
-<td><img src="style.png" width="250"/><br><b>Style Image</b></td>
+<td><img src="style.jpg" width="250"/><br><b>Style Image</b></td>
 <td><img src="result.png" width="250"/><br><b>Stylized Result</b></td>
 </tr>
 </table>
@@ -107,4 +107,3 @@ This project is licensed under the MIT License – free for personal or commerci
 
 ## 👤 Author
 Swarupa Balaji
-Feel free to reach out for contributions, ideas, or collaborations!
